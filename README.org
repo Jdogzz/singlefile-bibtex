@@ -1,0 +1,10 @@
+* singlefile-bibtex
+** Requirements
+Grab the standalone singlefile executable following this procedure:
+[https://github.com/gildas-lormeau/SingleFile/blob/master/cli/README.MD](https://github.com/gildas-lormeau/SingleFile/blob/master/cli/README.MD)
+** Installation
+Clone this repo, then load the el file.
+** Configuration
+Set your desired location for the stored webpages with the variable `singlefile-destination-dir`.
+** Usage
+Call the function `singlefile-bibtex` and give it the URL you want to save and add to your bib file.
