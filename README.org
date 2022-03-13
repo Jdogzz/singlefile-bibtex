@@ -6,5 +6,5 @@ Grab the standalone singlefile executable following this procedure:
 Clone this repo, then load the el file.
 ** Configuration
 Set your desired location for the stored webpages with the variable ~singlefile-destination-dir~.
-** Usagehttps://github.com/Jdogzz/singlefile-bibtex/blob/main/README.org
+** Usage
 Call the function ~singlefile-bibtex~ and give it the URL you want to save and add to your bib file.
