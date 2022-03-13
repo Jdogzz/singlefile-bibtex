@@ -1,7 +1,7 @@
 * singlefile-bibtex
 ** Requirements
 Grab the standalone singlefile executable following this procedure:
-[https://github.com/gildas-lormeau/SingleFile/blob/master/cli/README.MD](https://github.com/gildas-lormeau/SingleFile/blob/master/cli/README.MD)
+[[https://github.com/gildas-lormeau/SingleFile/blob/master/cli/README.MD]]
 ** Installation
 Clone this repo, then load the el file.
 ** Configuration
